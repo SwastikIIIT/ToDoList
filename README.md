@@ -13,9 +13,10 @@ A simple, interactive To-Do List application built with **HTML**, **CSS**, and *
 
 - **HTML5** - Structure of the app
 - **CSS3** - Styling and responsive layout
-- **JavaScript (Vanilla)** - Dynamic functionality for adding and removing tasks
+- **JavaScript** - Dynamic functionality for adding and removing tasks
 
 ## 📸 Screenshots
 
 ### Main Interface
-![To-Do List App Screenshot](screenshot.png)
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/98755021-82e4-498d-b1e1-21e8ea1ab21f">
+
